@@ -1,0 +1,2 @@
+# RandomColorGenrater
+using javascript 
