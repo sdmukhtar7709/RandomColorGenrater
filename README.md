@@ -5,7 +5,7 @@ A simple and interactive web application that generates random colors in **HEX**
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here)
+👉 
 
 ---
 
